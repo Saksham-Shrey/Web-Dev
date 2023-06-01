@@ -1,0 +1,12 @@
+
+hr{
+    background-color: turquoise;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10;
+    height: 0;
+    width: 20%;
+    
+}
+
